@@ -7,3 +7,5 @@ SPACE_CADET_ENABLE = no
 
 # Custom QMK here
 KEY_OVERRIDE_ENABLE = yes
+COMBO_ENABLE = yes
+TAP_DANCE_ENABLE = yes
